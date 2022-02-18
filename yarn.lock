@@ -2948,7 +2948,7 @@
   dependencies:
     "@octokit/openapi-types" "^11.2.0"
 
-"@pancakeswap/sdk@^2.4.0":
+"@pancakeswap/sdk@^2.4.3":
   version "2.4.3"
   resolved "https://registry.yarnpkg.com/@pancakeswap/sdk/-/sdk-2.4.3.tgz#59621336d57cf0047231503fc38a8073d8b276d7"
   integrity sha512-kWrZjv09+S7mqMO6uiyiXgOBVV1q/9nw0dqvOr3kXhJNvJJi/fTA9+Qyr63Uo/xz4vKT4gTyeOMQvPmVVI+bJA==
